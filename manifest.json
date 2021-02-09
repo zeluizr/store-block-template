@@ -1,10 +1,13 @@
 {
-  "vendor": "unimarcdev",
+  "vendor": "tiendatest3",
   "name": "sandbox",
-  "version": "0.0.4-beta.0",
+  "version": "0.0.5",
   "title": "Mega Menu",
   "description": "Mega menu component",
   "defaultLocale": "es-CL",
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
   "builders": {
     "messages": "1.x",
     "store": "0.x",
