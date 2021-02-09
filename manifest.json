@@ -1,7 +1,7 @@
 {
   "vendor": "unimarcdev",
-  "name": "megamenu",
-  "version": "0.0.2-beta.0",
+  "name": "sandbox",
+  "version": "0.0.1",
   "title": "Mega Menu",
   "description": "Mega menu component",
   "defaultLocale": "es-CL",
